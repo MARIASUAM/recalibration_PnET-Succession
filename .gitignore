@@ -1,0 +1,9 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+Icon
+scripts/other_scripts
+single_cohort_simulations
+scripts/.DS_Store
+0_climate_inputs/.DS_Store
